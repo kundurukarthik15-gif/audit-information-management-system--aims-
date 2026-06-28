@@ -118,8 +118,8 @@ This project is licensed under the MIT License.
 
 **Karthik Kunduru**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/kundurukarthik15-gif
+
 
 ---
 
